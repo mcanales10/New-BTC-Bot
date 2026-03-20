@@ -1,7 +1,7 @@
-node_modules/
+node_modules
+dist
 .env
-logs/
-dist/
-src/data/credential.json
-src/data/token-holding.json
-src/data/copytrade-state.json
+src/data
+analyse
+report
+scripts
